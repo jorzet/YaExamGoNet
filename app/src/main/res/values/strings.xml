@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exam</string>
+
+    <!--LOGIN-->
+    <string name="login_text">INICIAR SESIÓN</string>
+    <string name="version">V2.0</string>
+
+    <!--CONTET-->
+    <string name="pin_text">PINES</string>
+    <string name="recharges_text">RECARGAS</string>
+    <string name="collection_text">RECAUDACIÓN</string>
+    <string name="administration_text">ADMINISTRACIÓN</string>
+
+    <string name="settings_text">CONFIGURACIÓN</string>
+
+    <!--RECHARGES FRAGMENT-->
+    <string name="seller_text">VENTAS DE 3.0 A 100.0 CON INCREMENTO DE 1.0</string>
+    <string name="continue_text">CONTINUAR</string>
+
+    <string name="error_from_network_not_connected">Error, Conexión a internet no disponible</string>
+
+</resources>
