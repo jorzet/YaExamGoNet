@@ -29,6 +29,7 @@ class SplashActivity : BaseActivityLifeCycle() {
 
     private fun showProgressBar() {
         Thread(Runnable {
+
             goLogInActivity()
         }).start()
     }

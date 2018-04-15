@@ -16,6 +16,8 @@
     <!--RECHARGES FRAGMENT-->
     <string name="seller_text">VENTAS DE 3.0 A 100.0 CON INCREMENTO DE 1.0</string>
     <string name="continue_text">CONTINUAR</string>
+    <string name="air_time_text">Tiempo aire</string>
+    <string name="megas_text">Megas</string>
 
     <string name="error_from_network_not_connected">Error, Conexión a internet no disponible</string>
 

@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentStatePagerAdapter
 import com.jorzet.exam.fragments.AdministrationFragment
 import com.jorzet.exam.fragments.CollectionFragment
 import com.jorzet.exam.fragments.PinFragment
-import com.jorzet.exam.fragments.recharges.RechargesFragment
+import com.jorzet.exam.fragments.RechargesFragment
 /**
  * Created by Jorge Zepeda Tinoco on 14/04/18.
  * jorzet.94@gmail.com
