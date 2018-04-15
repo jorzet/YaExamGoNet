@@ -17,7 +17,8 @@ import com.jorzet.exam.services.database.DataBase
 import com.jorzet.exam.ui.activities.ContentActivity
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
 
 class SingInFragment : BaseContentFragment() {

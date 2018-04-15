@@ -10,7 +10,7 @@ import com.jorzet.exam.fragments.CollectionFragment
 import com.jorzet.exam.fragments.PinFragment
 import com.jorzet.exam.fragments.recharges.RechargesFragment
 /**
- * Created by Jorge Zepeda Tinoco on 12/03/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
  * jorzet.94@gmail.com
  */
 
