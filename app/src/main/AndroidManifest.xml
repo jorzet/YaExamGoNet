@@ -24,7 +24,19 @@
 
         <activity android:name="com.jorzet.exam.ui.activities.ContentActivity"/>
 
-        <activity android:name="com.jorzet.exam.ui.activities.SettingsActivity"/>
+        <activity android:name="com.jorzet.exam.ui.activities.SettingsActivity"
+            android:parentActivityName=".ui.activities.ContentActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.activities.ContentActivity" />
+        </activity>
+
+        <activity android:name="com.jorzet.exam.ui.activities.RechargeActivity"
+            android:parentActivityName=".ui.activities.ContentActivity" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".ui.activities.ContentActivity" />
+        </activity>
 
     </application>
 
