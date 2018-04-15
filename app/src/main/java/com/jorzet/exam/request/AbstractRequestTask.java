@@ -3,7 +3,8 @@ package com.jorzet.exam.request;
 import android.os.AsyncTask;
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
 
 public class AbstractRequestTask<A, B, C> extends AsyncTask<A, B, C> {

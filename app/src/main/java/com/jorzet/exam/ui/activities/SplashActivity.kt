@@ -6,7 +6,8 @@ import android.os.Handler
 import com.jorzet.exam.R
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
 
 class SplashActivity : BaseActivityLifeCycle() {

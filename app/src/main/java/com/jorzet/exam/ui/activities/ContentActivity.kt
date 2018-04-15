@@ -13,9 +13,9 @@ import com.jorzet.exam.R
 import com.jorzet.exam.adapters.MainContainerViewPager
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
-
 class ContentActivity : BaseActivityLifeCycle(), TabLayout.OnTabSelectedListener {
 
     private lateinit var mToolbar : Toolbar

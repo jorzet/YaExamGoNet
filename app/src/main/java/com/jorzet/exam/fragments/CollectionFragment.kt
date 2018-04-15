@@ -8,7 +8,8 @@ import com.jorzet.exam.R
 import com.jorzet.exam.fragments.content.BaseContentFragment
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
 
 class CollectionFragment : BaseContentFragment() {

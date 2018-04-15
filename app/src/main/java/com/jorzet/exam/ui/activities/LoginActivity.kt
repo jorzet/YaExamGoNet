@@ -10,7 +10,7 @@ import com.jorzet.exam.R
 import com.jorzet.exam.fragments.singinandsingup.SingInFragment
 
 /**
- * Created by Jorge Zepeda Tinoco on 27/02/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
  * jorzet.94@gmail.com
  */
 

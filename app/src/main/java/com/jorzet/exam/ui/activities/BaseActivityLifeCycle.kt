@@ -3,7 +3,7 @@ package com.jorzet.exam.ui.activities
 import android.support.v7.app.AppCompatActivity
 
 /**
- * Created by Jorge Zepeda Tinoco on 27/02/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
  * jorzet.94@gmail.com
  */
 

@@ -1,7 +1,8 @@
 package com.jorzet.exam.ui.dialogs
 
 /**
- * Created by jorge on 14/04/18.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
+ * jorzet.94@gmail.com
  */
 
 class TransactionDialog {

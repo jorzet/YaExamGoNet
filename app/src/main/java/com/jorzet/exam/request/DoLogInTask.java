@@ -9,10 +9,9 @@ import com.jorzet.exam.services.webservice.MetadataInfo;
 
 
 /**
- * Created by Jorge Zepeda Tinoco on 22/12/17.
+ * Created by Jorge Zepeda Tinoco on 14/04/18.
  * jorzet.94@gmail.com
  */
-
 public class DoLogInTask extends AbstractRequestTask {
 
     private Context mContext;
