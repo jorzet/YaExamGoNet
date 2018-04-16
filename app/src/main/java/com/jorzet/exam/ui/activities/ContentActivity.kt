@@ -88,7 +88,6 @@ class ContentActivity : BaseActivityLifeCycle(), TabLayout.OnTabSelectedListener
     private fun goSettingsActivity() {
         val intent = Intent(this, SettingsActivity::class.java)
         this.startActivity(intent)
-        this.finish()
     }
 
 }
