@@ -54,6 +54,5 @@ class RechargesFragment : BaseContentFragment(), AdapterView.OnItemClickListener
     override fun onItemClick(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
         val intent = Intent(activity, RechargeActivity::class.java)
         activity.startActivity(intent)
-        activity.finish()
     }
 }
